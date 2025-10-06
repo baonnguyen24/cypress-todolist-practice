@@ -1,4 +1,4 @@
-# Cypress Practice Project - To Do List
+# Cypress Project - To Do List
 
 This project is a complete automated test suite for a web-based To-Do List application using Cypress with Javascript. 
 It demonstrates end-to-end testing best practices by covering core user interactions and validating UI behavior reliably.
